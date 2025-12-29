@@ -44,10 +44,14 @@ nav a{
     font-size: 16px;
     text-decoration: none;
 }
-#showcase{
+#showcase {
+    position: relative;
     background-image: url('assets/back1.jpg');
+    background-size: cover;
+    background-position: center;
     padding: 20%;
     text-align: center;
+    color: white;
 }
 #showcase .container h3{
     position: relative;
@@ -149,5 +153,6 @@ table tbody tr:nth-child(odd){
     background-color: #222;
     color: #fff;
 }
+
 
 
