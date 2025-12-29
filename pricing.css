@@ -45,7 +45,7 @@ nav a{
     text-decoration: none;
 }
 #showcase{
-    background-image: url('../cheatsheet/back.jpg');
+    background-image: url('assets/back.jpg');
     padding: 20%;
     text-align: center;
 }
@@ -149,3 +149,4 @@ table tbody tr:nth-child(odd){
     background-color: #222;
     color: #fff;
 }
+
