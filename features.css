@@ -1,4 +1,4 @@
-body{
+xbody{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0px ;
     padding: 0px;
@@ -45,7 +45,7 @@ nav a{
     text-decoration: none;
 }
 #showcase{
-    background-image: url('../cheatsheet/back.jpg');
+    background-image: url('assets/back.jpg');
     padding: 20%;
     text-align: center;
 }
@@ -135,4 +135,5 @@ button a{
     margin:50px 150px;
     text-align: center;
 }
+
 
