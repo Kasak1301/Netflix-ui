@@ -45,7 +45,7 @@ nav a{
     text-decoration: none;
 }
 #showcase{
-    background-image: url('../cheatsheet/back.jpg');
+    background-image: url('assets/back.jpg');
     padding: 20%;
     text-align: center;
 }
@@ -165,3 +165,4 @@ aside{
 .footer .footer-cols {
     grid-template-columns: repeat(2, 1fr);
 }
+
